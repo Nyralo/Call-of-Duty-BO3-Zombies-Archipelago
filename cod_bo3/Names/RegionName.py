@@ -1,0 +1,7 @@
+TheGiant_Courtyard               ="(The Giant) Courtyard"
+TheGiant_AnimalTesting           ="(The Giant) Animal Testing"
+TheGiant_Garage                  ="(The Giant) Garage"
+TheGiant_PowerRoom               ="(The Giant) Power Room"
+TheGiant_Teleporter1             ="(The Giant) Teleporter 1"
+TheGiant_Teleporter2             ="(The Giant) Teleporter 2"
+TheGiant_Teleporter3             ="(The Giant) Teleporter 3"
